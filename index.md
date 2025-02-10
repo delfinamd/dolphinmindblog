@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: An insight into things we don’t think about
 ---
 
